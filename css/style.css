@@ -97,7 +97,7 @@ body {
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
-  color: var(--title-color);
+  color: #ffffff;
 }
 .hero-btn:hover,
 .hero-btn:focus {
@@ -164,7 +164,7 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  color: #000000;
+  color: #ffffff;
 }
 
 .footer-address {
@@ -188,7 +188,7 @@ body {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  color: var(--pre-title-color);
+  color: rgba(255, 255, 255, 0.6);
 }
 .footer-email:hover,
 .footer-email:focus {
